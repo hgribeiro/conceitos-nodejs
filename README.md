@@ -24,7 +24,7 @@ Please make sure to update tests as appropriate.
 
 
 ## Contact 
-You can contact me @[Linkedin] (https://www.linkedin.com/in/hgribeiro/)
+You can contact me @[Linkedin](https://www.linkedin.com/in/hgribeiro/)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
